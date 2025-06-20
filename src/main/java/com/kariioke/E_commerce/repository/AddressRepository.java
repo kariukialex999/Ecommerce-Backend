@@ -1,0 +1,7 @@
+package com.kariioke.E_commerce.exceptions;
+
+import com.kariioke.E_commerce.entity.Address;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AddressRepository extends JpaRepository<Address, Long> {
+}
