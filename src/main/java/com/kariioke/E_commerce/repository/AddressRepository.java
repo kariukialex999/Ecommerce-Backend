@@ -1,4 +1,4 @@
-package com.kariioke.E_commerce.exceptions;
+package com.kariioke.E_commerce.repository;
 
 import com.kariioke.E_commerce.entity.Address;
 import org.springframework.data.jpa.repository.JpaRepository;
